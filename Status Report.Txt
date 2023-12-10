@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [touch sensor.PcbDoc]
+   Generated File[Azoteq touch sensor.TXT]
+   Generated File[Azoteq touch sensor.LDP]
+   Generated File[Azoteq touch sensor.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:21:01 On 06-11-2023
